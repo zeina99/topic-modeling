@@ -1,1 +1,7 @@
-# topic-modeling (WIP)
+# topic-modeling 
+Topic modeling using:
+- LSI
+- LDA
+- HDP
+
+
